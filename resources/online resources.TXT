@@ -1,0 +1,12 @@
+FARM stack crash course:
+https://www.youtube.com/watch?v=OzUzrs8uJl8&t=2091s
+
+Git crash course:
+https://www.youtube.com/watch?v=8JJ101D3knE
+
+Go Syntax:
+https://gobyexample.com
+
+Go libraries:
+https://pkg.go.dev/std
+
