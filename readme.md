@@ -57,13 +57,13 @@ stadium/
 ```
 
 ## How To Make Changes:
-1. Ensure you're on the master branch:
+1. Ensure you're on the main branch:
 ```shell script
-git checkout master
+git checkout main
 ```
-2. Pull the latest changes from the remote master branch:
+2. Pull the latest changes from the remote main branch:
 ```shell script
-git pull origin master
+git pull origin main
 ```
 3. Create a new branch for the new feature/change:
 ```shell script
@@ -97,8 +97,8 @@ git push origin feature/new-feature
       After the code review process is successful, you can merge the pull request.
       Click the "Merge" button on your pull request on GitHub or your Git hosting platform.
 
-10. Update the master branch:
+10. Update the main branch:
 ```shell script
-git checkout master
-git pull origin master
+git checkout main
+git pull origin main
 ```
